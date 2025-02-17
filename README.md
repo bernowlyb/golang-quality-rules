@@ -13,9 +13,9 @@ The repository is divided into two main folders:
 - **essential-rules**: Contains the 10 Golang rules that are currently generating issues. These are the critical rules where most of our code quality problems originate.
 - **additional-rules**: Contains the remaining 28 Golang rules that currently have no reported issues.
 
-## Current Issue Breakdown
+## Essential Rules
 
-Below is a summary of 10 essential rules:
+Below is a summary of the 10 essential rules:
 
 | **Code**   | **Description**                                                                 |
 |------------|---------------------------------------------------------------------------------|
